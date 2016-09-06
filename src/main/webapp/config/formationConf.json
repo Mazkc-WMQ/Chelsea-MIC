@@ -1,0 +1,2348 @@
+[
+    {
+        "name": "5人制",
+        "type": 5,
+        "formations": [
+            {
+                "id": 522,
+                "name": "2-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 33.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 5121,
+                "name": "1-2-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 28.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 71.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 531,
+                "name": "3-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 26,
+                        "y": 103.5,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 74,
+                        "y": 103.5,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 5211,
+                "name": "2-1-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 5112,
+                "name": "1-1-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 33.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 540,
+                "name": "4-0",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 2,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 3,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "7人制",
+        "type": 7,
+        "formations": [
+            {
+                "id": 7321,
+                "name": "3-2-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 28.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 71.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 7312,
+                "name": "3-1-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 33.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    }, {
+                        "num": 5,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 7231,
+                "name": "2-3-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 7222,
+                "name": "2-2-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 33.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 26,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 74,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 7213,
+                "name": "2-1-3",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 18.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 26,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 81.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 4,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 7411,
+                "name": "4-1-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 81.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 733,
+                "name": "3-3",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 26,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 26,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 74,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 742,
+                "name": "4-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 33.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "8人制",
+        "type": 8,
+        "formations": [
+            {
+                "id": 8421,
+                "name": "4-2-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 28.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 71.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8412,
+                "name": "4-1-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 35.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },                  
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8331,
+                "name": "3-3-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 18.5,
+                        "y": 58.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 81.5,
+                        "y": 58.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 26,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 74,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8313,
+                "name": "3-1-3",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 26,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 26,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 74,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 4,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8322,
+                "name": "3-2-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 33.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 28.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 71.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 21,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8232,
+                "name": "2-3-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 33.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 66.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 26,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 74,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8241,
+                "name": "2-4-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 33.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 66.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8223,
+                "name": "2-2-3",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 26,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 26,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 74,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 4,
+                        "x": 28.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 71.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 8511,
+                "name": "5-1-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 50,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "11人制",
+        "type": 11,
+        "formations": [
+            {
+                "id": 11433,
+                "name": "4-3-3",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 26,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 26,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 74,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 4,
+                        "x": 26,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 74,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 1144201,
+                "name": "平行4-4-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 38.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 61.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 38.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 61.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 114411,
+                "name": "4-4-1-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 11,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 43.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 38.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 61.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 114321,
+                "name": "4-3-2-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 11,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 38.5,
+                        "y": 43.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 61.5,
+                        "y": 43.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 28.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 50,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 71.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 114141,
+                "name": "4-1-4-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 11,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 18.5,
+                        "y": 48.5,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 3,
+                        "x": 38.5,
+                        "y": 53.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 61.5,
+                        "y": 53.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 81.5,
+                        "y": 48.5,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 50,
+                        "y": 83.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 1144202,
+                "name": "菱形4-4-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 38.5,
+                        "y": 21,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 61.5,
+                        "y": 21,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 43.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 50,
+                        "y": 83.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 11532,
+                "name": "5-3-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 38.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 61.5,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 28.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 50,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 71.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 50,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 11343,
+                "name": "3-4-3",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 26,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 50,
+                        "y": 26,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 74,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 38.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 61.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 26,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 74,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 11361,
+                "name": "3-6-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 11,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 38.5,
+                        "y": 51,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 3,
+                        "x": 61.5,
+                        "y": 51,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 38.5,
+                        "y": 76,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 61.5,
+                        "y": 76,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 8,
+                        "x": 26,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 74,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 11451,
+                "name": "4-5-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 11,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 18.5,
+                        "y": 43.5,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 3,
+                        "x": 81.5,
+                        "y": 43.5,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 4,
+                        "x": 28.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 50,
+                        "y": 83.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 71.5,
+                        "y": 66,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 114231,
+                "name": "4-2-3-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 11,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 18.5,
+                        "y": 48.5,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 43.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 81.5,
+                        "y": 48.5,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 38.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 6,
+                        "x": 61.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 38.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 61.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 11541,
+                "name": "5-4-1",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 50,
+                        "y": 31,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 3,
+                        "x": 38.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 61.5,
+                        "y": 71,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 5,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 18.5,
+                        "y": 101,
+                        "location": "lhw",
+                        "pos": "左后卫"
+                    },
+                    {
+                        "num": 7,
+                        "x": 33.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 8,
+                        "x": 50,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 66.5,
+                        "y": 106,
+                        "location": "mhw",
+                        "pos": "中后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 81.5,
+                        "y": 101,
+                        "location": "rhw",
+                        "pos": "右后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            },
+            {
+                "id": 11352,
+                "name": "3-5-2",
+                "positions": [
+                    {
+                        "num": 1,
+                        "x": 38.5,
+                        "y": 21,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 2,
+                        "x": 61.5,
+                        "y": 21,
+                        "location": "qf",
+                        "pos": "前锋"
+                    },
+                    {
+                        "num": 3,
+                        "x": 50,
+                        "y": 53.5,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 4,
+                        "x": 18.5,
+                        "y": 66,
+                        "location": "lqw",
+                        "pos": "左前卫"
+                    },
+                    {
+                        "num": 5,
+                        "x": 81.5,
+                        "y": 66,
+                        "location": "rqw",
+                        "pos": "右前卫"
+                    },
+                    {
+                        "num": 6,
+                        "x": 33.5,
+                        "y": 81,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 7,
+                        "x": 61.5,
+                        "y": 81,
+                        "location": "mc",
+                        "pos": "中场"
+                    },
+                    {
+                        "num": 8,
+                        "x": 26,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 9,
+                        "x": 50,
+                        "y": 106,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 10,
+                        "x": 74,
+                        "y": 101,
+                        "location": "hw",
+                        "pos": "后卫"
+                    },
+                    {
+                        "num": 0,
+                        "x": 50,
+                        "y": 131,
+                        "location": "mj",
+                        "pos": "门将"
+                    }
+                ]
+            }
+        ]
+    }
+]
